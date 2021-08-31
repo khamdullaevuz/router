@@ -3,7 +3,7 @@
 
 ``` bash
 git clone https://github.com/khamdullaevuz/router
-cd router
+cd router && cd public
 php -S localhost:8080
 ```
 
