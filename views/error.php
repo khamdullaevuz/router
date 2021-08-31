@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <?= $error ?>
+    <h1><?= $error ?></h1>
 </body>
 </html>
